@@ -1,13 +1,18 @@
 {
   "name": "nodejstraininginexpree",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "This is a tranning for node js ",
+=======
+  "description": "this is Nodejs Training for Freshers to Experience",
+>>>>>>> ba29cd12734187669b157a437b39efa4ea07260b
   "main": "server.js",
   "scripts": {
     "test": "node test",
     "build" : "npm install",
     "start" : "node server.js"
   },
+<<<<<<< HEAD
   "author": "Kaustav",
   "license": "ISC",
   "repository": {
@@ -18,4 +23,16 @@
     "url": "https://github.com/kaustavnarayanbasu/NodejsTranning/issues"
   },
   "homepage": "https://github.com/kaustavnarayanbasu/NodejsTranning#readme"
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firdousalam/NodejsTrainingInExpree.git"
+  },
+  "author": "Technophile Firdous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firdousalam/NodejsTrainingInExpree/issues"
+  },
+  "homepage": "https://github.com/firdousalam/NodejsTrainingInExpree#readme"
+>>>>>>> ba29cd12734187669b157a437b39efa4ea07260b
 }
